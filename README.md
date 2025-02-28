@@ -8,6 +8,7 @@ The keyboard has a telephone format: a grid of buttons with numbers from 0 to 9 
 	4 5 6
 	7 8 9
 	  0
+
 Unlocks and clears the panel when entering a sequence of digits corresponding to the value of the LOCKER_SEQUENCE constant.
 It can be used to hide Easter eggs in programs.
 
