@@ -1,5 +1,4 @@
 # ComblockCurtain
---------------------------------
 ##	General description.
 
 The control for WinForms and WPF is a panel with a hidden keyboard. 
